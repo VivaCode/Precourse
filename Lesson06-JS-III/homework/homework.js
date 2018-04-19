@@ -1,14 +1,17 @@
 // Do not change any of the function names
 
 function returnFirst(arr) {
+  return arr.shift();
   // return the first item from the array
 }
 
 function returnLast(arr) {
+  return arr.push();
   // return the last item of the array
 }
 
 function getArrayLength(arr) {
+  return arr.length();
   // return the length of the array
 }
 
